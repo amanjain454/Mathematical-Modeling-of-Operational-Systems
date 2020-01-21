@@ -1,0 +1,24 @@
+#RESET THE AMPL ENVIROMENT
+reset;
+
+#LOAD THE MODEL
+model HW3_test_case_1.mod;
+
+#LOAD THE DATA
+data HW3_test_case_1.dat;
+
+#DISPLAY THE PROBLEM FORMULATION
+#expand z, Constraint;
+
+#CHANGE THE SOLVER (optional)
+option solver cplex;
+
+#SOLVE
+solve;
+
+#SHOW RESULTS
+display total_profit > Results.txt ;
+display demand_served > Results.txt;
+display made > Results.txt;
+display scr > Results.txt ;
+display inv > Results.txt ;

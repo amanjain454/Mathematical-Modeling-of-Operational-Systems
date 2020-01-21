@@ -1,0 +1,60 @@
+total_profit = 195
+
+demand_served [*,1,*]
+:             1   2   3    :=
+36_30_frame   5   0   0
+MetalCutter   0   0   0
+MetalLegs     0   0   0
+MetalRods     0   0   0
+
+ [*,2,*]
+:             1   2    3    :=
+36_30_frame   0   10   0
+MetalCutter   0    0   0
+MetalLegs     0    0   0
+MetalRods     0    0   0
+
+ [*,3,*]
+:             1   2   3     :=
+36_30_frame   0   0   10
+MetalCutter   0   0    0
+MetalLegs     0   0    0
+MetalRods     0   0    0
+;
+
+made :=
+36_30_frame 1    5
+36_30_frame 2   12
+36_30_frame 3    8
+;
+
+scr :=
+36_30_frame 1     0
+36_30_frame 2     0
+36_30_frame 3     0
+MetalCutter 1     0
+MetalCutter 2     0
+MetalCutter 3    60
+MetalLegs   1     0
+MetalLegs   2     0
+MetalLegs   3    20
+MetalRods   1     0
+MetalRods   2     0
+MetalRods   3   660
+;
+
+inv :=
+36_30_frame 1     0
+36_30_frame 2     2
+36_30_frame 3     0
+MetalCutter 1    50
+MetalCutter 2     0
+MetalCutter 3     0
+MetalLegs   1     0
+MetalLegs   2    12
+MetalLegs   3     0
+MetalRods   1   660
+MetalRods   2   396
+MetalRods   3     0
+;
+

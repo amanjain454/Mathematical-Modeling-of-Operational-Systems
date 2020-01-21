@@ -1,0 +1,38 @@
+total_profit = 30
+
+demand_served :=
+P 1 1   2
+P 1 2   0
+P 1 3   0
+P 2 1   0
+P 2 2   4
+P 2 3   0
+P 3 1   0
+P 3 2   0
+P 3 3   0
+;
+
+made :=
+P 1   2
+P 2   4
+P 3   0
+;
+
+scr :=
+A 1    6
+A 2    2
+A 3   10
+B 1    8
+B 2    6
+B 3   10
+P 1    0
+P 2    0
+P 3    0
+;
+
+inv :=
+P 1   0
+P 2   0
+P 3   0
+;
+

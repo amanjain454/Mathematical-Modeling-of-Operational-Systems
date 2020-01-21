@@ -1,0 +1,284 @@
+total_profit = 4791.57
+
+demand_served [*,1,*]
+:              1   2   3   4   5   6   7    :=
+24x18Flec      0   1   0   0   0   0   0
+24x18PVC       0   0   0   0   0   0   0
+24x18PVCFlec   0   2   0   0   0   0   0
+24x18PVCPad    0   2   0   0   0   0   0
+24x18Pad       0   0   0   0   0   0   0
+30x24Flec      0   2   0   0   0   0   0
+30x24M         0   0   0   0   0   0   0
+30x24MFlec     0   1   0   0   0   0   0
+30x24MPad      0   1   0   0   0   0   0
+30x24PVC       1   0   0   0   0   0   0
+30x24PVCFlec   0   0   0   0   0   0   0
+30x24PVCPad    0   0   0   0   0   0   0
+30x24Pad       0   0   0   0   0   0   0
+36x30Flec      0   0   0   0   0   0   0
+36x30M         0   0   0   0   0   0   0
+36x30MFlec     0   0   0   0   0   0   0
+36x30MPad      0   2   0   0   0   0   0
+36x30Pad       0   0   0   0   0   0   0
+FlecFab        0   0   0   0   0   0   0
+MetLeg         0   4   0   0   0   0   0
+MetRod         0   0   0   0   0   0   0
+PVCLeg         0   2   0   0   0   0   0
+PVCRod         0   0   0   0   0   0   0
+Package        0   0   0   0   0   0   0
+PadFab         0   0   0   0   0   0   0
+
+ [*,2,*]
+:              1   2   3   4   5   6   7    :=
+24x18Flec      0   0   1   0   0   0   0
+24x18PVC       0   2   0   0   0   0   0
+24x18PVCFlec   0   0   0   0   0   0   0
+24x18PVCPad    0   0   3   0   0   0   0
+24x18Pad       0   0   1   0   0   0   0
+30x24Flec      0   0   0   0   0   0   0
+30x24M         0   0   2   0   0   0   0
+30x24MFlec     0   0   0   0   0   0   0
+30x24MPad      0   0   0   0   0   0   0
+30x24PVC       0   3   0   0   0   0   0
+30x24PVCFlec   0   0   0   0   0   0   0
+30x24PVCPad    0   0   2   0   0   0   0
+30x24Pad       0   0   0   0   0   0   0
+36x30Flec      0   0   0   0   0   0   0
+36x30M         0   0   0   0   0   0   0
+36x30MFlec     0   0   2   0   0   0   0
+36x30MPad      0   0   3   0   0   0   0
+36x30Pad       0   0   1   0   0   0   0
+FlecFab        0   0   0   0   0   0   0
+MetLeg         0   0   0   0   0   0   0
+MetRod         0   0   0   0   0   0   0
+PVCLeg         0   0   0   0   0   0   0
+PVCRod         0   0   0   0   0   0   0
+Package        0   0   0   0   0   0   0
+PadFab         0   0   0   0   0   0   0
+
+ [*,3,*]
+:              1   2   3   4   5   6   7    :=
+24x18Flec      0   0   0   0   0   0   0
+24x18PVC       0   0   0   0   0   0   0
+24x18PVCFlec   0   0   0   2   0   0   0
+24x18PVCPad    0   0   0   2   0   0   0
+24x18Pad       0   0   0   0   0   0   0
+30x24Flec      0   0   0   1   0   0   0
+30x24M         0   0   0   0   0   0   0
+30x24MFlec     0   0   0   2   0   0   0
+30x24MPad      0   0   0   2   0   0   0
+30x24PVC       0   0   4   0   0   0   0
+30x24PVCFlec   0   0   0   2   0   0   0
+30x24PVCPad    0   0   0   0   0   0   0
+30x24Pad       0   0   0   2   0   0   0
+36x30Flec      0   0   0   1   0   0   0
+36x30M         0   0   1   1   0   0   0
+36x30MFlec     0   0   0   3   0   0   0
+36x30MPad      0   0   0   2   0   0   0
+36x30Pad       0   0   0   0   0   0   0
+FlecFab        0   0   0   0   0   0   0
+MetLeg         0   0   0   8   0   0   0
+MetRod         0   0   0   0   0   0   0
+PVCLeg         0   0   0   0   0   0   0
+PVCRod         0   0   0   0   0   0   0
+Package        0   0   0   0   0   0   0
+PadFab         0   0   0   0   0   0   0
+
+ [*,4,*]
+:              1   2   3   4   5   6   7    :=
+24x18Flec      0   0   0   0   0   0   0
+24x18PVC       0   0   0   3   0   0   0
+24x18PVCFlec   0   0   0   0   3   0   0
+24x18PVCPad    0   0   0   0   1   0   0
+24x18Pad       0   0   0   0   0   0   0
+30x24Flec      0   0   0   0   1   0   0
+30x24M         0   0   0   0   1   0   0
+30x24MFlec     0   0   0   0   3   0   0
+30x24MPad      0   0   0   0   2   0   0
+30x24PVC       0   0   0   2   0   0   0
+30x24PVCFlec   0   0   0   0   2   0   0
+30x24PVCPad    0   0   0   0   3   0   0
+30x24Pad       0   0   0   0   0   0   0
+36x30Flec      0   0   0   0   1   0   0
+36x30M         0   0   0   0   0   0   0
+36x30MFlec     0   0   0   0   6   0   0
+36x30MPad      0   0   0   0   5   0   0
+36x30Pad       0   0   0   0   1   0   0
+FlecFab        0   0   0   0   0   0   0
+MetLeg         0   0   0   0   6   0   0
+MetRod         0   0   0   0   0   0   0
+PVCLeg         0   0   0   0   6   0   0
+PVCRod         0   0   0   0   0   0   0
+Package        0   0   0   0   0   0   0
+PadFab         0   0   0   0   0   0   0
+
+ [*,5,*]
+:              1   2   3   4   5   6   7    :=
+24x18Flec      0   0   0   0   0   2   0
+24x18PVC       0   0   0   0   0   0   0
+24x18PVCFlec   0   0   0   0   0   0   0
+24x18PVCPad    0   0   0   0   0   0   0
+24x18Pad       0   0   0   0   0   0   0
+30x24Flec      0   0   0   0   0   0   0
+30x24M         0   0   0   0   0   0   0
+30x24MFlec     0   0   0   0   0   2   0
+30x24MPad      0   0   0   0   0   3   0
+30x24PVC       0   0   0   0   1   0   0
+30x24PVCFlec   0   0   0   0   0   0   0
+30x24PVCPad    0   0   0   0   0   2   0
+30x24Pad       0   0   0   0   0   0   0
+36x30Flec      0   0   0   0   0   2   0
+36x30M         0   0   0   0   0   0   0
+36x30MFlec     0   0   0   0   0   0   0
+36x30MPad      0   0   0   0   0   3   0
+36x30Pad       0   0   0   0   0   0   0
+FlecFab        0   0   0   0   0   0   0
+MetLeg         0   0   0   0   0   0   0
+MetRod         0   0   0   0   0   0   0
+PVCLeg         0   0   0   0   0   0   0
+PVCRod         0   0   0   0   0   0   0
+Package        0   0   0   0   0   0   0
+PadFab         0   0   0   0   0   0   0
+
+ [*,6,*]
+:              1   2   3   4   5   6   7     :=
+24x18Flec      0   0   0   0   0   0    0
+24x18PVC       0   0   0   0   0   4    0
+24x18PVCFlec   0   0   0   0   0   0   13
+24x18PVCPad    0   0   0   0   0   0   24
+24x18Pad       0   0   0   0   0   0    0
+30x24Flec      0   0   0   0   0   0    2
+30x24M         0   0   0   0   0   0    0
+30x24MFlec     0   0   0   0   0   0   12
+30x24MPad      0   0   0   0   0   0   24
+30x24PVC       0   0   0   0   0   6    0
+30x24PVCFlec   0   0   0   0   0   0    3
+30x24PVCPad    0   0   0   0   0   0    9
+30x24Pad       0   0   0   0   0   0    1
+36x30Flec      0   0   0   0   0   0    0
+36x30M         0   0   0   0   0   0    1
+36x30MFlec     0   0   0   0   0   0    8
+36x30MPad      0   0   0   0   0   0    8
+36x30Pad       0   0   0   0   0   0    0
+FlecFab        0   0   0   0   0   0    0
+MetLeg         0   0   0   0   0   0    0
+MetRod         0   0   0   0   0   0    0
+PVCLeg         0   0   0   0   0   0    0
+PVCRod         0   0   0   0   0   0    0
+Package        0   0   0   0   0   0    0
+PadFab         0   0   0   0   0   0    0
+
+ [*,7,*]
+:              1   2   3   4   5   6   7     :=
+24x18Flec      0   0   0   0   0   0    0
+24x18PVC       0   0   0   0   0   0    6
+24x18PVCFlec   0   0   0   0   0   0   22
+24x18PVCPad    0   0   0   0   0   0    1
+24x18Pad       0   0   0   0   0   0    0
+30x24Flec      0   0   0   0   0   0    0
+30x24M         0   0   0   0   0   0    1
+30x24MFlec     0   0   0   0   0   0   11
+30x24MPad      0   0   0   0   0   0   14
+30x24PVC       0   0   0   0   0   0    8
+30x24PVCFlec   0   0   0   0   0   0    5
+30x24PVCPad    0   0   0   0   0   0    5
+30x24Pad       0   0   0   0   0   0    0
+36x30Flec      0   0   0   0   0   0    0
+36x30M         0   0   0   0   0   0    0
+36x30MFlec     0   0   0   0   0   0   12
+36x30MPad      0   0   0   0   0   0   11
+36x30Pad       0   0   0   0   0   0    0
+FlecFab        0   0   0   0   0   0    0
+MetLeg         0   0   0   0   0   0    0
+MetRod         0   0   0   0   0   0    0
+PVCLeg         0   0   0   0   0   0    4
+PVCRod         0   0   0   0   0   0    0
+Package        0   0   0   0   0   0    0
+PadFab         0   0   0   0   0   0    0
+;
+
+made [*,*]
+:              1    2    3    4    5   6   7    :=
+24x18Flec       0    1    0   20   1   0   0
+24x18PVC        0    2   30    9   0   0   0
+24x18PVCFlec    0    0    0   19   3   0   0
+24x18PVCPad     0    0    1    0   0   0   0
+24x18Pad        0    1    0    0   0   0   0
+30x24Flec       6    6    0    2   2   0   0
+30x24M          0   12   14    0   0   0   0
+30x24MFlec      0    0    4    5   2   0   0
+30x24MPad       0    0   10    1   3   0   0
+30x24PVC       30   28    0    0   0   0   0
+30x24PVCFlec    0    0    5    0   0   0   0
+30x24PVCPad     0    0    5    0   0   0   0
+30x24Pad        4   11    0    1   3   0   0
+36x30Flec      12    0    0    0   0   0   0
+36x30M         18    6    0    0   0   0   0
+36x30MFlec      0    0    0    4   8   0   0
+36x30MPad       0    0    0    3   8   0   0
+36x30Pad        1    2    0    0   8   0   0
+;
+
+scr [*,*]
+:               1      2     3     4     5    6   7    :=
+24x18Flec         0     0     0     0     0   0   0
+24x18PVC          0     0     0     0     0   0   0
+24x18PVCFlec      0     0     0     0     0   0   0
+24x18PVCPad       0     0     0     0     0   0   0
+24x18Pad          0     0     0     0     0   0   0
+30x24Flec         0     0     0     0     0   0   0
+30x24M            0     0     0     0     0   0   0
+30x24MFlec        0     0     0     0     0   0   0
+30x24MPad         0     0     0     0     0   0   0
+30x24PVC          0     0     0     0     0   0   0
+30x24PVCFlec      0     0     0     0     0   0   0
+30x24PVCPad       0     0     0     0     0   0   0
+30x24Pad          0     0     0     0     0   0   0
+36x30Flec         0     0     0     0     0   0   0
+36x30M            0     0     0     0     0   0   0
+36x30MFlec        0     0     0     0     0   0   0
+36x30MPad         0     0     0     0     0   0   0
+36x30Pad          0     0     0     0     0   0   0
+FabCut            4    11   240     0   175   0   0
+FabSew            8     3     0     0     1   0   0
+FlecFab        3588     0     0     0     0   0   0
+KitAssm         240   240    10     0     0   0   0
+MetLeg            0     0     0     0     0   0   0
+MetRod          524     0     0     0     0   0   0
+MetalCut          0     0    40   180   150   0   0
+PVCCut            0     0     0   168   240   0   0
+PVCLeg            0     0     0     0     0   0   0
+PVCRod          792     0     0     0     0   0   0
+Package           0     0     0     0     0   0   0
+PadFab         2072     0     0     0     0   0   0
+;
+
+inv [*,*]
+:               1      2      3     4     5     6     7     :=
+24x18Flec         0      1     1     2     0     0     0
+24x18PVC          0      0    29    16    13     9     3
+24x18PVCFlec      0      0     0    19    22    22     0
+24x18PVCPad       0      0     1     1     1     1     0
+24x18Pad          0      1     0     0     0     0     0
+30x24Flec         6     12     3     0     0     0     0
+30x24M            0     12    12     6     1     1     0
+30x24MFlec        0      0     4     9    11    11     0
+30x24MPad         0      0    10    11    14    14     0
+30x24PVC         29     54    40    38    37    31    23
+30x24PVCFlec      0      0     5     5     5     5     0
+30x24PVCPad       0      0     5     5     5     5     0
+30x24Pad          4     15     0     0     0     0     0
+36x30Flec        12     12    12     8     0     0     0
+36x30M           18     24    23    16     0     0     0
+36x30MFlec        0      0     0     4    12    12     0
+36x30MPad         0      0     0     3    11    11     0
+36x30Pad          1      3     3     0     0     0     0
+FlecFab         764    574   574    78     0     0     0
+MetLeg          128     56     0     0     0     0     0
+MetRod         3600   1512     0     0     0     0     0
+PVCLeg          280    160    40     4     4     4     0
+PVCRod         6468   3276   756     0     0     0     0
+Package         400    400   375   343   319   319   319
+PadFab          782    384   384   356     0     0     0
+;
+
