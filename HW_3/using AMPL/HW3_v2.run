@@ -1,0 +1,20 @@
+#RESET THE AMPL ENVIROMENT
+reset;
+
+#LOAD THE MODEL
+model HW3_v2.mod;
+
+#LOAD THE DATA
+data HW3_v2.dat;
+
+#DISPLAY THE PROBLEM FORMULATION
+#expand z, Constraint;
+
+#CHANGE THE SOLVER (optional)
+option solver cplex;
+
+#SOLVE
+solve;
+
+#SHOW RESULTS
+display total_profit;

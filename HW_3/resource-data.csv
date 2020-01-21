@@ -1,0 +1,55 @@
+,Ratings,Comments,,,
+Overall,,,,,
+Impact,NA (Ashish/Jindal will be better judge here) ,,,,
+Competencies,4.333333333,,,,
+Strengths,,,,,
+,,,,,
+,,,,,
+,,,,,
+Competency,Description,Aman Rating,Comments,,
+Product Sense,"- Relentless customer focus - using qualitative and quantitative insights
+- Understand and shapes business
+- Excellent sense of competition and product <> market fit 
+- Creative thinking around use cases and system building
+- Being ‘right a lot’ - building products which matter with consistency 
+- Build the right platforms for the long term",4,"Customer touch point rationalization
+DE app pick up changes for store's flow. 
+Building dash simple, complex platforms for across new service lines.
+Creative solutioning around reserving min capacity for swiggy daily. 
+Drove low cost and reliable logistics options to kick off Swiggy Daily, at the same time driving consensus for long term product changes. 
+",,
+Vision and Roadmapping,"- Long term vision and road mapping
+- Building long term platforms vs immediate deliverable
+- Short term planning and sprint prioritization
+- Prioritizing products that add great value to further the product and company vision 
+- Deploying people and resources to achieve maximum value at minimum costs",4,"Runs his own scrum with ravi and team
+Generally right about deploying people (across analytics, dev, ops etc) to right problems.
+Have understanding and confidence to prioritize right issues at right time with out much overview. ",,
+Communication,"- Constant articulation of your vision, and its evolution. Be the owner of your product’s perception in and out of the company
+- Building and communicating powerful product cases and compelling roadmaps
+- High quality one-pagers, decks, PRDs / JIRA tickets and other product / design artifacts 
+- Timely and accurate communication of all stages of product lifecycle",3,"Needs to improve on this front - Generally reserved by nature - but needs to be little more outward. Great with his immediate stakeholders. He started making some progress during June-July but Ashish will be in better position for his recent improvements. 
+",,
+Team and Stakeholder Management,"- Taking a leadership approach with respect to stakeholder management - including business, engineering and other stakeholders
+- Alignment with all necessary stakeholders throughout the product lifecycle. Managing expectations
+- Managing external stakeholders - media, partner companies etc. 
+- Effective hiring and team management",5,"""- Generally Being admired by his immediate stakeholders.
+- Gave enough confidence to stakehodlers when I was moving out - which is a good sign.",,
+Act like an owner,"- Defining a strong go-to-market strategy and successfully launching all initiatives with completeness
+- Managing dependencies well, and calling out blockers in time
+- Unbelievable grit. Roll up your sleeves and tackle something hands-on in the short term and search for long term solution
+- Focused on building businesses, not features
+- “Owner” personality. Biased toward action, great collaborator, a master disambiguator/simplifier, and constantly pushing toward clarity and delivery",5,"Owns things completely, does not drop the ball. 
+Can leave things to him and he will get back to you if stuck. ",,
+Data Focus,"- Defining success metrics for your charter and communicate movements around those 
+- Keeping data at the centre of decision making
+- Utilize A/B and other quantitative testing to prove key results
+- Predicting metrics for each initiative, and keep getting better at them",5,"Dived into core logistics logs himself when analytics bandwidth was short. 
+He delved into assignment logic's logs to get first cut of performance data - when engineering bandwidth was short to build proper data pipelines. 
+This helped us to do initial optimizations around serviceability of stores. 
+He led ops team to run swiggy daily's simulation to chalk out operaitonal strategy. 
+
+",,
+,,,,,
+Impact,,Released,"Stores, SLD core logistics peices.",,
+,,"WIP (During July, some of these should be released now) + there will be more items in WIP. ","Daily, C2C DE app and logistics changes.",,
